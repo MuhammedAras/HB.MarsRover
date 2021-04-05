@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HB.MarsRover.Application", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HB.MarsRover.Core", "HB.MarsRover.Core\HB.MarsRover.Core.csproj", "{D1AFA491-B25F-4126-B33E-D9D2BB9D8F26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HB.MarsRover.Abstractions", "HB.MarsRover.Contracts\HB.MarsRover.Abstractions.csproj", "{CC1BFEED-BF4B-4A08-925F-27A1788CDF59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HB.MarsRover.Abstractions", "HB.MarsRover.Abstractions\HB.MarsRover.Abstractions.csproj", "{CC1BFEED-BF4B-4A08-925F-27A1788CDF59}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HB.MarsRover.Domain", "HB.MarsRover.Domain\HB.MarsRover.Domain.csproj", "{F345C90D-9F7C-4442-97AF-D8928C677E5A}"
 EndProject

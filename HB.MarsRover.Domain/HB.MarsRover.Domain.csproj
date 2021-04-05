@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HB.MarsRover.Abstractions\HB.MarsRover.Abstractions.csproj" />
     <ProjectReference Include="..\HB.MarsRover.Common\HB.MarsRover.Common.csproj" />
-    <ProjectReference Include="..\HB.MarsRover.Contracts\HB.MarsRover.Abstractions.csproj" />
   </ItemGroup>
 
 </Project>
